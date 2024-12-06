@@ -9,7 +9,7 @@ title = "Blowfish"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
-  description = "A powerful, lightweight theme for Hugo."
+  description = "A powerful, stinky theme for Hugo."
 
 [params.author]
   name = "Blowfish"
