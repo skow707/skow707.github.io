@@ -29,7 +29,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/logo_nta.svg
+    image: logos/logo_nta.png
     link: /
     # Default width/height. Uncomment if you need to change
     # width: 112
