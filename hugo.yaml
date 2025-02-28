@@ -32,10 +32,10 @@ params:
     image: logos/logo_nta.svg
     link: /
     # Default width/height. Uncomment if you need to change
-    # width: 112
+    # width: 224
     # height: 28
   font:
-    name: "Open Sans"
+    name: "Roboto"
     sizes: [400,600]
   hero:
     # Main hero title
