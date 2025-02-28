@@ -1,6 +1,7 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
 title: Scuola Nuovi linguaggi della comunicazione
+publishDir: docs 
 
 module:
   # uncomment line below for local development of module
