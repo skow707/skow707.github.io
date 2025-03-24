@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Users on Blowfish</title>
-    <link>https://localhost:1313/it/tags/users/</link>
+    <link>https://skow707.github.io/it/tags/users/</link>
     <description>Recent content in Users on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 Blowfish</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/it/tags/users/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://skow707.github.io/it/tags/users/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Users</title>
-      <link>https://localhost:1313/it/users/</link>
+      <link>https://skow707.github.io/it/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/it/users/</guid>
-      <description>&lt;p&gt;Real websites that are built with Blowfish. Check the full list in &lt;a href=&#34;https://localhost:1313/users/users.json&#34;&gt;JSON format&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://skow707.github.io/it/users/</guid>
+      <description>&lt;p&gt;Real websites that are built with Blowfish. Check the full list in &lt;a href=&#34;https://skow707.github.io/users/users.json&#34;&gt;JSON format&lt;/a&gt;.&lt;/p&gt;
 
   
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Installation on Blowfish</title>
-    <link>https://localhost:1313/ja/tags/installation/</link>
+    <link>http://localhost:1313/ja/tags/installation/</link>
     <description>Recent content in Installation on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
     <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
     <copyright>© 2025 Blowfish</copyright>
-    <atom:link href="https://localhost:1313/ja/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/tags/installation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>インストール</title>
-      <link>https://localhost:1313/ja/docs/installation/</link>
+      <link>http://localhost:1313/ja/docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://localhost:1313/ja/docs/installation/</guid>
+      <guid>http://localhost:1313/ja/docs/installation/</guid>
       <description>&lt;p&gt;Hugo の&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34;&gt;クイックスタートガイド&lt;/a&gt;に従うだけで、簡単に使い始めることができます。&lt;/p&gt;
 &lt;p&gt;詳細なインストール手順は以下に記載されています。&lt;a href=&#34;#%e3%83%86%e3%83%bc%e3%83%9e%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e6%96%b9%e6%b3%95&#34;&gt;テーマのアップデート方法&lt;/a&gt;についても説明しています。&lt;/p&gt;
 
@@ -32,15 +32,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;以下の手順では、全くの新規状態から Hugo と Blowfish を使用してウェブサイトを立ち上げる方法を説明します。このガイドで紹介するツールのほとんどは、お使いのプラットフォームに対応したパッケージマネージャーからインストール可能です。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/installation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
     </item>
     
     <item>
       <title>始める</title>
-      <link>https://localhost:1313/ja/docs/getting-started/</link>
+      <link>http://localhost:1313/ja/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://localhost:1313/ja/docs/getting-started/</guid>
+      <guid>http://localhost:1313/ja/docs/getting-started/</guid>
       <description>&lt;div
   
     class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
@@ -64,7 +64,7 @@
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
-    &gt;このセクションでは、&lt;a href=&#34;https://localhost:1313/ja/docs/installation/&#34; target=&#34;_blank&#34;&gt;Blowfish テーマをすでにインストールしている&lt;/a&gt;ことを前提としています。&lt;/span&gt;
+    &gt;このセクションでは、&lt;a href=&#34;http://localhost:1313/ja/docs/installation/&#34; target=&#34;_blank&#34;&gt;Blowfish テーマをすでにインストールしている&lt;/a&gt;ことを前提としています。&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;/br&gt;
@@ -97,7 +97,7 @@
     
       class=&#34;dark:text-neutral-300&#34;
     &gt;&lt;p&gt;Blowfish の使用開始を支援する CLI ツールをリリースしました。インストールと設定に役立ちます。次のコマンドで CLI ツールをグローバルにインストールします。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/getting-started/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/per-iniziare/featured.svg" />
     </item>
     
   </channel>
